@@ -1,8 +1,9 @@
 level.dat_old
 session.lock
-poi/
-region/
-stats/
-playerdata/
+poi
+region
+stats
+playerdata
 DIM-1/
-advancements/
+advancements
+speedrunigt/logs
