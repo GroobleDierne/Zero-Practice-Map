@@ -13,3 +13,4 @@ This is an updated version of the map that fixes issues and adds some features.
 - Hotbar is no longer messed up sometimes and items truly keep the same place as laid out in the chest.
 - More blocks are cleared when the island is reset (nether bricks, dirt, coarse dirt, gravel, soul sand...).
 - The pressure plate can be changed to any material if you don't like the noise the default one makes.
+- Clear boats on reset
