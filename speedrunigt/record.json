@@ -9,46 +9,606 @@
   "world_name": "_zero_cycle_practice_grooble_flavor",
   "is_cheat_allowed": false,
   "default_gamemode": 1,
-  "date": 1723896399885,
+  "date": 1723899948524,
   "retimed_igt": 74062,
   "final_igt": 74062,
   "stats_igt": 325100,
   "final_rta": 74062,
   "open_lan": null,
-  "timelines": [],
-  "advancements": {},
+  "timelines": [
+    {
+      "name": "kill_ender_dragon",
+      "igt": 74062,
+      "rta": 74062
+    }
+  ],
+  "advancements": {
+    "practice:gui_towers": {
+      "complete": false,
+      "is_advancement": false,
+      "criteria": {
+        "requirement": {
+          "igt": 74062,
+          "rta": 74062
+        }
+      },
+      "igt": 0,
+      "rta": 0
+    },
+    "practice:gui_settings": {
+      "complete": false,
+      "is_advancement": false,
+      "criteria": {
+        "requirement": {
+          "igt": 74062,
+          "rta": 74062
+        }
+      },
+      "igt": 0,
+      "rta": 0
+    },
+    "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_bed": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_the_recipe": {
+          "igt": 74062,
+          "rta": 74062
+        }
+      },
+      "igt": 74062,
+      "rta": 74062
+    },
+    "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_bed": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_the_recipe": {
+          "igt": 74062,
+          "rta": 74062
+        }
+      },
+      "igt": 74062,
+      "rta": 74062
+    },
+    "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_bed": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_the_recipe": {
+          "igt": 74062,
+          "rta": 74062
+        }
+      },
+      "igt": 74062,
+      "rta": 74062
+    },
+    "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_bed": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_the_recipe": {
+          "igt": 74062,
+          "rta": 74062
+        }
+      },
+      "igt": 74062,
+      "rta": 74062
+    },
+    "minecraft:story/iron_tools": {
+      "complete": true,
+      "is_advancement": true,
+      "criteria": {
+        "iron_pickaxe": {
+          "igt": 74062,
+          "rta": 74062
+        }
+      },
+      "igt": 74062,
+      "rta": 74062
+    },
+    "minecraft:recipes/brewing/cauldron": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_the_recipe": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_water_bucket": {
+          "igt": 74062,
+          "rta": 74062
+        }
+      },
+      "igt": 74062,
+      "rta": 74062
+    },
+    "minecraft:recipes/decorations/black_bed_from_white_bed": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_bed": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_the_recipe": {
+          "igt": 74062,
+          "rta": 74062
+        }
+      },
+      "igt": 74062,
+      "rta": 74062
+    },
+    "minecraft:recipes/decorations/respawn_anchor": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_obsidian": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_the_recipe": {
+          "igt": 74062,
+          "rta": 74062
+        }
+      },
+      "igt": 74062,
+      "rta": 74062
+    },
+    "minecraft:recipes/misc/nether_brick": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_netherrack": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_the_recipe": {
+          "igt": 74062,
+          "rta": 74062
+        }
+      },
+      "igt": 74062,
+      "rta": 74062
+    },
+    "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_bed": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_the_recipe": {
+          "igt": 74062,
+          "rta": 74062
+        }
+      },
+      "igt": 74062,
+      "rta": 74062
+    },
+    "minecraft:recipes/decorations/red_bed_from_white_bed": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_bed": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_the_recipe": {
+          "igt": 74062,
+          "rta": 74062
+        }
+      },
+      "igt": 74062,
+      "rta": 74062
+    },
+    "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_bed": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_the_recipe": {
+          "igt": 74062,
+          "rta": 74062
+        }
+      },
+      "igt": 74062,
+      "rta": 74062
+    },
+    "minecraft:recipes/misc/iron_nugget_from_blasting": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_chainmail_boots": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_chainmail_chestplate": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_chainmail_helmet": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_chainmail_leggings": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_iron_axe": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_iron_boots": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_iron_chestplate": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_iron_helmet": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_iron_hoe": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_iron_horse_armor": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_iron_leggings": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_iron_pickaxe": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_iron_shovel": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_iron_sword": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_the_recipe": {
+          "igt": 74062,
+          "rta": 74062
+        }
+      },
+      "igt": 74062,
+      "rta": 74062
+    },
+    "minecraft:recipes/decorations/soul_torch": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_soul_sand": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_the_recipe": {
+          "igt": 74062,
+          "rta": 74062
+        }
+      },
+      "igt": 74062,
+      "rta": 74062
+    },
+    "minecraft:recipes/redstone/redstone_lamp": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_glowstone": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_the_recipe": {
+          "igt": 74062,
+          "rta": 74062
+        }
+      },
+      "igt": 74062,
+      "rta": 74062
+    },
+    "minecraft:recipes/food/cake": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_egg": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_the_recipe": {
+          "igt": 74062,
+          "rta": 74062
+        }
+      },
+      "igt": 74062,
+      "rta": 74062
+    },
+    "minecraft:recipes/misc/iron_nugget_from_smelting": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_chainmail_boots": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_chainmail_chestplate": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_chainmail_helmet": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_chainmail_leggings": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_iron_axe": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_iron_boots": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_iron_chestplate": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_iron_helmet": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_iron_hoe": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_iron_horse_armor": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_iron_leggings": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_iron_pickaxe": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_iron_shovel": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_iron_sword": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_the_recipe": {
+          "igt": 74062,
+          "rta": 74062
+        }
+      },
+      "igt": 74062,
+      "rta": 74062
+    },
+    "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_bed": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_the_recipe": {
+          "igt": 74062,
+          "rta": 74062
+        }
+      },
+      "igt": 74062,
+      "rta": 74062
+    },
+    "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_bed": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_the_recipe": {
+          "igt": 74062,
+          "rta": 74062
+        }
+      },
+      "igt": 74062,
+      "rta": 74062
+    },
+    "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_bed": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_the_recipe": {
+          "igt": 74062,
+          "rta": 74062
+        }
+      },
+      "igt": 74062,
+      "rta": 74062
+    },
+    "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_bed": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_the_recipe": {
+          "igt": 74062,
+          "rta": 74062
+        }
+      },
+      "igt": 74062,
+      "rta": 74062
+    },
+    "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_bed": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_the_recipe": {
+          "igt": 74062,
+          "rta": 74062
+        }
+      },
+      "igt": 74062,
+      "rta": 74062
+    },
+    "minecraft:nether/obtain_crying_obsidian": {
+      "complete": true,
+      "is_advancement": true,
+      "criteria": {
+        "crying_obsidian": {
+          "igt": 74062,
+          "rta": 74062
+        }
+      },
+      "igt": 74062,
+      "rta": 74062
+    },
+    "minecraft:recipes/decorations/green_bed_from_white_bed": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_bed": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_the_recipe": {
+          "igt": 74062,
+          "rta": 74062
+        }
+      },
+      "igt": 74062,
+      "rta": 74062
+    },
+    "minecraft:recipes/decorations/soul_campfire": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_soul_sand": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_stick": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_the_recipe": {
+          "igt": 74062,
+          "rta": 74062
+        }
+      },
+      "igt": 74062,
+      "rta": 74062
+    },
+    "minecraft:recipes/decorations/chest": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_lots_of_items": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_the_recipe": {
+          "igt": 74062,
+          "rta": 74062
+        }
+      },
+      "igt": 74062,
+      "rta": 74062
+    },
+    "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_bed": {
+          "igt": 74062,
+          "rta": 74062
+        },
+        "has_the_recipe": {
+          "igt": 74062,
+          "rta": 74062
+        }
+      },
+      "igt": 74062,
+      "rta": 74062
+    }
+  },
   "stats": {
     "58a6efe5-28de-47a3-bcf4-2752ae9f9f1e": {
       "stats": {
         "minecraft:used": {
-          "minecraft:white_bed": 5,
-          "minecraft:respawn_anchor": 2,
-          "minecraft:ender_pearl": 3,
-          "minecraft:egg": 3,
-          "minecraft:anvil": 1,
-          "minecraft:warped_sign": 2,
-          "minecraft:bread": 1,
-          "minecraft:nether_bricks": 32
+          "minecraft:netherrack": 58,
+          "minecraft:white_bed": 12,
+          "minecraft:respawn_anchor": 4,
+          "minecraft:ender_pearl": 14,
+          "minecraft:egg": 4,
+          "minecraft:soul_sand": 3,
+          "minecraft:crying_obsidian": 1
         },
         "minecraft:picked_up": {
-          "minecraft:yellow_shulker_box": 2
+          "minecraft:netherrack": 3
         },
         "minecraft:custom": {
-          "minecraft:jump": 237,
-          "minecraft:open_chest": 6,
-          "minecraft:time_since_rest": 2783,
-          "minecraft:open_shulker_box": 12,
-          "minecraft:crouch_one_cm": 1670,
-          "minecraft:play_one_minute": 7803,
-          "minecraft:damage_taken": 220,
-          "minecraft:sprint_one_cm": 10114,
-          "minecraft:walk_one_cm": 16911,
-          "minecraft:time_since_death": 2782,
-          "minecraft:deaths": 3,
-          "minecraft:sneak_time": 862,
-          "minecraft:interact_with_anvil": 1,
-          "minecraft:fall_one_cm": 1579,
-          "minecraft:fly_one_cm": 82365
+          "minecraft:jump": 98,
+          "minecraft:open_chest": 3,
+          "minecraft:time_since_rest": 1336,
+          "minecraft:deaths": 1,
+          "minecraft:crouch_one_cm": 662,
+          "minecraft:play_one_minute": 4821,
+          "minecraft:damage_taken": 1150,
+          "minecraft:sprint_one_cm": 3652,
+          "minecraft:time_since_death": 1336,
+          "minecraft:walk_one_cm": 7353,
+          "minecraft:sneak_time": 359,
+          "minecraft:fall_one_cm": 5211,
+          "minecraft:fly_one_cm": 7474
         }
       },
       "DataVersion": 2567
