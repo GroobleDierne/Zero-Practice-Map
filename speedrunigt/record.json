@@ -1,0 +1,57 @@
+{
+  "mc_version": "1.16.1",
+  "speedrunigt_version": "13.6+1.16.1",
+  "category": "pratice_world",
+  "run_type": "old_world",
+  "is_completed": true,
+  "is_coop": false,
+  "is_hardcore": false,
+  "world_name": "_zero_cycle_practice_grooble_flavor",
+  "is_cheat_allowed": false,
+  "default_gamemode": 1,
+  "date": 1723896399885,
+  "retimed_igt": 74062,
+  "final_igt": 74062,
+  "stats_igt": 325100,
+  "final_rta": 74062,
+  "open_lan": null,
+  "timelines": [],
+  "advancements": {},
+  "stats": {
+    "58a6efe5-28de-47a3-bcf4-2752ae9f9f1e": {
+      "stats": {
+        "minecraft:used": {
+          "minecraft:white_bed": 5,
+          "minecraft:respawn_anchor": 2,
+          "minecraft:ender_pearl": 3,
+          "minecraft:egg": 3,
+          "minecraft:anvil": 1,
+          "minecraft:warped_sign": 2,
+          "minecraft:bread": 1,
+          "minecraft:nether_bricks": 32
+        },
+        "minecraft:picked_up": {
+          "minecraft:yellow_shulker_box": 2
+        },
+        "minecraft:custom": {
+          "minecraft:jump": 237,
+          "minecraft:open_chest": 6,
+          "minecraft:time_since_rest": 2783,
+          "minecraft:open_shulker_box": 12,
+          "minecraft:crouch_one_cm": 1670,
+          "minecraft:play_one_minute": 7803,
+          "minecraft:damage_taken": 220,
+          "minecraft:sprint_one_cm": 10114,
+          "minecraft:walk_one_cm": 16911,
+          "minecraft:time_since_death": 2782,
+          "minecraft:deaths": 3,
+          "minecraft:sneak_time": 862,
+          "minecraft:interact_with_anvil": 1,
+          "minecraft:fall_one_cm": 1579,
+          "minecraft:fly_one_cm": 82365
+        }
+      },
+      "DataVersion": 2567
+    }
+  }
+}

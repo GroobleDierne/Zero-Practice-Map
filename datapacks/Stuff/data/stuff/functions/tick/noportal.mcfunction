@@ -1,0 +1,1 @@
+execute in minecraft:the_end run fill 2 60 -2 -2 60 2 air replace end_portal

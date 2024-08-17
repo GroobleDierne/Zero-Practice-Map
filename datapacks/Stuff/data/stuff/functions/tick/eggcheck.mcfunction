@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:egg] run function stuff:reset

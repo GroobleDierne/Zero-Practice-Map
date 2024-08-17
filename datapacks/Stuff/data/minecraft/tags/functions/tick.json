@@ -1,0 +1,17 @@
+{
+  "values": [
+    "stuff:tick/bossbar",
+    "stuff:tick/damage",
+    "stuff:tick/timer",
+    "stuff:tick/eggcheck",
+    "stuff:tick/noportal",
+    "stuff:tick/xp",
+    "stuff:tick/buttons",
+    "stuff:tick/pressureplate",
+    "stuff:tick/toggles",
+    "stuff:options/choosefrontback",
+    "stuff:options/choosenode",
+    "stuff:options/savespawn",
+    "stuff:options/savepillars"
+  ]
+}

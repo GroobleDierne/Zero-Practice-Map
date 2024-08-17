@@ -1,0 +1,20 @@
+{
+  "values": [
+    "minecraft:gravel",
+    "minecraft:crying_obsidian",
+    "minecraft:cobblestone",
+    "#minecraft:beds",
+    "minecraft:respawn_anchor",
+    "minecraft:twisting_vines",
+    "minecraft:twisting_vines_plant",
+    "minecraft:glowstone",
+    "minecraft:water",
+    "minecraft:crafting_table",
+    "minecraft:dirt",
+    "minecraft:netherrack",
+    "minecraft:coarse_dirt",
+    "minecraft:nether_bricks",
+    "minecraft:soul_sand",
+    "minecraft:scaffolding"
+  ]
+}
